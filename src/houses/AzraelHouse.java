@@ -1,4 +1,12 @@
+package houses;
+
 import java.util.Scanner;
+
+import smurfs.BrainySmurf;
+import smurfs.JoketSmurf;
+import smurfs.PapaSmurf;
+import smurfs.Smurf;
+
 
 public class AzraelHouse {
     private final String[] products = {"Лосось", "Камбала", "Треска", "Палтус", "Тунец"};
